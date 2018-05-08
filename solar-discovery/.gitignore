@@ -22,4 +22,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-/solar-config.log*
+/solar-discovery.log

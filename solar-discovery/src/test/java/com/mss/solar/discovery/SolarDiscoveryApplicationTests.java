@@ -1,4 +1,4 @@
-package com.mss.solar.config;
+package com.mss.solar.discovery;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SolarConfigApplicationTests {
+public class SolarDiscoveryApplicationTests {
 
 	@Test
 	public void contextLoads() {
